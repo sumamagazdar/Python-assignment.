@@ -1,0 +1,29 @@
+[Running] python -u "c:\Users\DELL\OneDrive\Desktop\Sumama\tempCodeRunnerFile.py"
+First number = 15
+Second number = 10
+Third number = 3
+Sum = 28
+Difference = 2
+Product = 450
+Average = 9.333333333333334
+
+[Done] exited with code=0 in 0.352 seconds
+
+[Running] python -u "c:\Users\DELL\OneDrive\Desktop\Sumama\tempCodeRunnerFile.py"
+Area of Triangle = 25.0
+Area of Square = 16
+Area of Circle = 153.86
+Area of Rectangle = 24
+
+[Done] exited with code=0 in 0.152 seconds
+
+[Running] python -u "c:\Users\DELL\OneDrive\Desktop\Sumama\tempCodeRunnerFile.py"
+Before swapping:
+a = 20
+b = 10
+After swapping:
+a = 10
+b = 20
+
+[Done] exited with code=0 in 0.159 seconds
+
